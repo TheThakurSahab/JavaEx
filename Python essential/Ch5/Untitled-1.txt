@@ -1,0 +1,9 @@
+username:akash
+password1:test
+password2:test
+ensure_home_directory:off
+first_name:akash
+last_name:singh
+email:asingh@phdata.io
+groups:1
+is_active:on
